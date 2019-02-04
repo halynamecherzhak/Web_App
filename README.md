@@ -1,5 +1,5 @@
 # Web_App
-DataBaseName - user
+DataBaseName - user <br />
 CREATE TABLE users (
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     username VARCHAR(50) NOT NULL UNIQUE,
